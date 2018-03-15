@@ -9,3 +9,6 @@ This executable will ask you for the following:
 5) An admin token
 
 The CSV only needs one column called "user_id". Each row is the SIS USER ID for a user you want to update 
+
+Common Errors:
+1) If you get an error this is almost always because the course that houses the images does not have an SIS_ID... check this first 
